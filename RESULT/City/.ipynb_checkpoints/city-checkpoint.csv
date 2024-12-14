@@ -1,0 +1,717 @@
+,city
+0,Tangerang Kabupaten
+1,Jakarta Pusat
+2,Jakarta Selatan
+3,Sukabumi Kota
+4,Bekasi Kota
+5,Tangerang Kota
+6,Jakarta Timur
+7,Bogor Kabupaten
+8,Bekasi Kota
+9,Jakarta Pusat
+10,Depok
+11,Depok
+12,Jakarta Pusat
+13,Bekasi Kota
+14,Jakarta Pusat
+15,Tangerang Kabupaten
+16,Bekasi Kota
+17,Jakarta Timur
+18,Tangerang Kabupaten
+19,Tangerang Selatan
+20,Jakarta Timur
+21,Tangerang Kota
+22,Sukabumi Kabupaten
+23,Jakarta Selatan
+24,Bogor Kota
+25,Jakarta Timur
+26,Bogor Kota
+27,Bekasi Kabupaten
+28,Jakarta Pusat
+29,Jakarta Timur
+30,Bekasi Kabupaten
+31,Jakarta Timur
+32,Depok
+33,Jakarta Pusat
+34,Cianjur
+35,Tangerang Kota
+36,Bogor Kabupaten
+37,Tangerang Kota
+38,Tangerang Selatan
+39,Jakarta Timur
+40,Jakarta Timur
+41,Jakarta Timur
+42,Jakarta Timur
+43,Depok
+44,Bogor Kota
+45,Depok
+46,Tangerang Kota
+47,Bogor Kota
+48,Jakarta Pusat
+49,Jakarta Selatan
+50,Bekasi Kota
+51,Jakarta Pusat
+52,Jakarta Barat
+53,Jakarta Timur
+54,Jakarta Timur
+55,Bogor Kota
+56,Tangerang Kota
+57,Bekasi Kota
+58,Bogor Kabupaten
+59,Jakarta Timur
+60,Jakarta Pusat
+61,Karawang
+62,Jakarta Timur
+63,Bogor Kota
+64,Bekasi Kabupaten
+65,Bogor Kota
+66,Depok
+67,Cianjur
+68,Depok
+69,Tangerang Selatan
+70,Tangerang Kota
+71,Bekasi Kabupaten
+72,Bekasi Kota
+73,Jakarta Pusat
+74,Jakarta Barat
+75,Bekasi Kota
+76,Tangerang Kota
+77,Bogor Kota
+78,Jakarta Timur
+79,Jakarta Pusat
+80,Jakarta Pusat
+81,Bekasi Kabupaten
+82,Jakarta Timur
+83,Bogor Kota
+84,Jakarta Pusat
+85,Karawang
+86,Tangerang Kota
+87,Depok
+88,Tangerang Kota
+89,Depok
+90,Bogor Kabupaten
+91,Jakarta Barat
+92,Jakarta Selatan
+93,Bogor Kota
+94,Tangerang Kota
+95,Bogor Kabupaten
+96,Karawang
+97,Tangerang Selatan
+98,Tangerang Selatan
+99,Bekasi Kota
+100,Bogor Kabupaten
+101,Jakarta Barat
+102,Jakarta Pusat
+103,Bekasi Kabupaten
+104,Jakarta Selatan
+105,Karawang
+106,Cianjur
+107,Depok
+108,Jakarta Barat
+109,Bogor Kabupaten
+110,Jakarta Timur
+111,Jakarta Timur
+112,Bogor Kabupaten
+113,Bogor Kabupaten
+114,Sukabumi Kabupaten
+115,Tangerang Kota
+116,Bogor Kabupaten
+117,Jakarta Timur
+118,Karawang
+119,Cianjur
+120,Jakarta Pusat
+121,Jakarta Utara
+122,Jakarta Timur
+123,Bekasi Kabupaten
+124,Jakarta Timur
+125,Jakarta Pusat
+126,Bekasi Kota
+127,Bogor Kabupaten
+128,Jakarta Pusat
+129,Jakarta Pusat
+130,Jakarta Barat
+131,Jakarta Timur
+132,Jakarta Pusat
+133,Tangerang Selatan
+134,Karawang
+135,Bekasi Kota
+136,Jakarta Pusat
+137,Tangerang Kota
+138,Bogor Kota
+139,Bekasi Kabupaten
+140,Jakarta Selatan
+141,Jakarta Pusat
+142,Sukabumi Kabupaten
+143,Cianjur
+144,Karawang
+145,Jakarta Timur
+146,Jakarta Timur
+147,Bogor Kota
+148,Tangerang Kabupaten
+149,Depok
+150,Depok
+151,Bogor Kabupaten
+152,Jakarta Barat
+153,Jakarta Pusat
+154,Bekasi Kota
+155,Tangerang Kota
+156,Tangerang Kota
+157,Bogor Kota
+158,Sukabumi Kota
+159,Jakarta Selatan
+160,Jakarta Pusat
+161,Jakarta Pusat
+162,Jakarta Pusat
+163,Bekasi Kabupaten
+164,Jakarta Utara
+165,Jakarta Pusat
+166,Jakarta Pusat
+167,Jakarta Timur
+168,Jakarta Selatan
+169,Jakarta Utara
+170,Bogor Kota
+171,Jakarta Pusat
+172,Bekasi Kabupaten
+173,Bekasi Kota
+174,Jakarta Barat
+175,Jakarta Timur
+176,Bogor Kabupaten
+177,Bekasi Kota
+178,Bekasi Kabupaten
+179,Jakarta Selatan
+180,Jakarta Timur
+181,Tangerang Kota
+182,Jakarta Utara
+183,Bekasi Kabupaten
+184,Depok
+185,Jakarta Pusat
+186,Jakarta Barat
+187,Jakarta Pusat
+188,Depok
+189,Jakarta Timur
+190,Bekasi Kota
+191,Jakarta Barat
+192,Bekasi Kota
+193,Jakarta Pusat
+194,Cianjur
+195,Jakarta Pusat
+196,Tangerang Selatan
+197,Jakarta Timur
+198,Bekasi Kabupaten
+199,Bogor Kota
+200,Karawang
+201,Jakarta Timur
+202,Tangerang Kabupaten
+203,Depok
+204,Jakarta Pusat
+205,Bogor Kabupaten
+206,Jakarta Barat
+207,Jakarta Barat
+208,Tangerang Selatan
+209,Karawang
+210,Bogor Kota
+211,Tangerang Kota
+212,Depok
+213,Jakarta Barat
+214,Bogor Kota
+215,Depok
+216,Bogor Kabupaten
+217,Depok
+218,Jakarta Timur
+219,Bekasi Kabupaten
+220,Jakarta Timur
+221,Tangerang Kota
+222,Jakarta Utara
+223,Jakarta Barat
+224,Jakarta Selatan
+225,Jakarta Pusat
+226,Bekasi Kabupaten
+227,Depok
+228,Bekasi Kota
+229,Jakarta Barat
+230,Bekasi Kota
+231,Jakarta Utara
+232,Jakarta Timur
+233,Bekasi Kota
+234,Jakarta Timur
+235,Bogor Kota
+236,Jakarta Pusat
+237,Depok
+238,Bekasi Kota
+239,Bogor Kota
+240,Bogor Kota
+241,Tangerang Kabupaten
+242,Jakarta Selatan
+243,Depok
+244,Bogor Kota
+245,Jakarta Utara
+246,Depok
+247,Depok
+248,Cianjur
+249,Jakarta Timur
+250,Depok
+251,Tangerang Kota
+252,Jakarta Timur
+253,Tangerang Kota
+254,Bekasi Kabupaten
+255,Jakarta Selatan
+256,Karawang
+257,Bogor Kabupaten
+258,Depok
+259,Bekasi Kota
+260,Jakarta Pusat
+261,Depok
+262,Bekasi Kota
+263,Bekasi Kabupaten
+264,Jakarta Pusat
+265,Depok
+266,Bogor Kota
+267,Jakarta Pusat
+268,Jakarta Timur
+269,Bekasi Kota
+270,Bogor Kota
+271,Karawang
+272,Bekasi Kota
+273,Jakarta Pusat
+274,Tangerang Kota
+275,Tangerang Kota
+276,Jakarta Pusat
+277,Jakarta Pusat
+278,Bekasi Kabupaten
+279,Bogor Kabupaten
+280,Sukabumi Kota
+281,Jakarta Barat
+282,Bogor Kota
+283,Jakarta Timur
+284,Jakarta Timur
+285,Bekasi Kota
+286,Jakarta Selatan
+287,Tangerang Selatan
+288,Jakarta Pusat
+289,Karawang
+290,Depok
+291,Bekasi Kota
+292,Jakarta Selatan
+293,Jakarta Pusat
+294,Depok
+295,Jakarta Pusat
+296,Tangerang Kota
+297,Bogor Kota
+298,Tangerang Kota
+299,Bogor Kabupaten
+300,Bekasi Kabupaten
+301,Bogor Kota
+302,Jakarta Pusat
+303,Tangerang Kota
+304,Depok
+305,Bogor Kota
+306,Bogor Kabupaten
+307,Bogor Kota
+308,Jakarta Selatan
+309,Depok
+310,Bogor Kota
+311,Bogor Kabupaten
+312,Bogor Kota
+313,Tangerang Selatan
+314,Tangerang Kota
+315,Tangerang Kabupaten
+316,Bekasi Kota
+317,Jakarta Timur
+318,Jakarta Pusat
+319,Cianjur
+320,Tangerang Kabupaten
+321,Bekasi Kota
+322,Bogor Kabupaten
+323,Jakarta Pusat
+324,Jakarta Selatan
+325,Jakarta Selatan
+326,Jakarta Pusat
+327,Depok
+328,Jakarta Pusat
+329,Depok
+330,Tangerang Kabupaten
+331,Jakarta Utara
+332,Cianjur
+333,Depok
+334,Jakarta Timur
+335,Depok
+336,Sukabumi Kota
+337,Jakarta Utara
+338,Bekasi Kota
+339,Lebak
+340,Cianjur
+341,Jakarta Timur
+342,Jakarta Pusat
+343,Bekasi Kota
+344,Tangerang Kota
+345,Bogor Kabupaten
+346,Tangerang Kabupaten
+347,Depok
+348,Bogor Kabupaten
+349,Jakarta Timur
+350,Bogor Kabupaten
+351,Sukabumi Kota
+352,Tangerang Kabupaten
+353,Jakarta Pusat
+354,Jakarta Pusat
+355,Tangerang Kota
+356,Bogor Kabupaten
+357,Depok
+358,Cianjur
+359,Sukabumi Kota
+360,Sukabumi Kota
+361,Jakarta Pusat
+362,Jakarta Timur
+363,Jakarta Pusat
+364,Cianjur
+365,Tangerang Kota
+366,Tangerang Kota
+367,Depok
+368,Bogor Kota
+369,Bogor Kota
+370,Bogor Kabupaten
+371,Lebak
+372,Bogor Kabupaten
+373,Cianjur
+374,Bogor Kota
+375,Tangerang Kabupaten
+376,Bekasi Kabupaten
+377,Karawang
+378,Cianjur
+379,Cianjur
+380,Depok
+381,Cianjur
+382,Sukabumi Kota
+383,Tangerang Kota
+384,Bogor Kota
+385,Jakarta Timur
+386,Tangerang Selatan
+387,Jakarta Pusat
+388,Bogor Kota
+389,Tangerang Kota
+390,Depok
+391,Tangerang Kota
+392,Tangerang Kota
+393,Jakarta Timur
+394,Jakarta Pusat
+395,Tangerang Kota
+396,Cirebon Kabupaten
+397,Sukabumi Kota
+398,Tangerang Kota
+399,Bekasi Kota
+400,Jakarta Utara
+401,Depok
+402,Jakarta Pusat
+403,Tangerang Kabupaten
+404,Jakarta Barat
+405,Bogor Kabupaten
+406,Bekasi Kota
+407,Bogor Kota
+408,Bogor Kabupaten
+409,Bogor Kota
+410,Bogor Kota
+411,Jakarta Timur
+412,Bekasi Kabupaten
+413,Depok
+414,Jakarta Selatan
+415,Depok
+416,Bogor Kabupaten
+417,Depok
+418,Jakarta Selatan
+419,Bogor Kabupaten
+420,Bogor Kota
+421,Serang Kabupaten
+422,Bekasi Kabupaten
+423,Bogor Kota
+424,Depok
+425,Jakarta Selatan
+426,Tangerang Kabupaten
+427,Jakarta Pusat
+428,Jakarta Selatan
+429,Serang Kabupaten
+430,Tangerang Kota
+431,Tangerang Kabupaten
+432,Bekasi Kota
+433,Tangerang Kabupaten
+434,Sukabumi Kota
+435,Jakarta Pusat
+436,Jakarta Timur
+437,Jakarta Pusat
+438,Bekasi Kabupaten
+439,Bekasi Kabupaten
+440,Tangerang Kabupaten
+441,Karawang
+442,Jakarta Selatan
+443,Depok
+444,Bogor Kabupaten
+445,Bekasi Kota
+446,Depok
+447,Tangerang Kota
+448,Bekasi Kabupaten
+449,Tangerang Kota
+450,Bogor Kabupaten
+451,Bogor Kota
+452,Jakarta Timur
+453,Bekasi Kabupaten
+454,Tangerang Kabupaten
+455,Sukabumi Kota
+456,Jakarta Barat
+457,Jakarta Timur
+458,Sukabumi Kota
+459,Bogor Kota
+460,Depok
+461,Jakarta Pusat
+462,Jakarta Pusat
+463,Sukabumi Kota
+464,Serang Kabupaten
+465,Jakarta Pusat
+466,Jakarta Selatan
+467,Depok
+468,Bogor Kota
+469,Jakarta Pusat
+470,Jakarta Pusat
+471,Jakarta Pusat
+472,Jakarta Barat
+473,Jakarta Pusat
+474,Tangerang Kabupaten
+475,Karawang
+476,Depok
+477,Jakarta Barat
+478,Jakarta Pusat
+479,Tangerang Kabupaten
+480,Karawang
+481,Depok
+482,Jakarta Pusat
+483,Bogor Kabupaten
+484,Depok
+485,Jakarta Barat
+486,Tangerang Kota
+487,Bekasi Kota
+488,Purwakarta
+489,Depok
+490,Tangerang Selatan
+491,Tangerang Kota
+492,Jakarta Pusat
+493,Bogor Kota
+494,Bogor Kota
+495,Karawang
+496,Jakarta Pusat
+497,Jakarta Pusat
+498,Jakarta Selatan
+499,Depok
+500,Depok
+501,Bekasi Kota
+502,Tangerang Selatan
+503,Jakarta Pusat
+504,Jakarta Pusat
+505,Jakarta Pusat
+506,Jakarta Selatan
+507,Jakarta Pusat
+508,Cianjur
+509,Jakarta Pusat
+510,Jakarta Pusat
+511,Bekasi Kabupaten
+512,Bogor Kota
+513,Jakarta Timur
+514,Bogor Kota
+515,Bogor Kabupaten
+516,Tangerang Kota
+517,Bekasi Kabupaten
+518,Tangerang Kabupaten
+519,Karawang
+520,Tangerang Kota
+521,Tangerang Selatan
+522,Jakarta Pusat
+523,Cianjur
+524,Tangerang Kota
+525,Tangerang Kota
+526,Jakarta Pusat
+527,Tangerang Kota
+528,Jakarta Pusat
+529,Tangerang Kota
+530,Jakarta Pusat
+531,Jakarta Pusat
+532,Bogor Kota
+533,Jakarta Barat
+534,Tangerang Kota
+535,Jakarta Pusat
+536,Jakarta Barat
+537,Tangerang Kabupaten
+538,Sukabumi Kota
+539,Jakarta Timur
+540,Depok
+541,Bogor Kabupaten
+542,Bekasi Kota
+543,Jakarta Pusat
+544,Jakarta Pusat
+545,Tangerang Kabupaten
+546,Bogor Kabupaten
+547,Tangerang Selatan
+548,Jakarta Pusat
+549,Bekasi Kabupaten
+550,Karawang
+551,Depok
+552,Jakarta Selatan
+553,Bogor Kota
+554,Sukabumi Kota
+555,Sukabumi Kota
+556,Sukabumi Kota
+557,Bekasi Kota
+558,Bekasi Kabupaten
+559,Jakarta Pusat
+560,Bekasi Kabupaten
+561,Jakarta Timur
+562,Jakarta Pusat
+563,Sukabumi Kabupaten
+564,Jakarta Pusat
+565,Depok
+566,Bekasi Kota
+567,Tangerang Kota
+568,Jakarta Pusat
+569,Karawang
+570,Karawang
+571,Jakarta Pusat
+572,Jakarta Selatan
+573,Tangerang Kabupaten
+574,Jakarta Pusat
+575,Jakarta Timur
+576,Tangerang Kota
+577,Tangerang Selatan
+578,Jakarta Barat
+579,Bekasi Kota
+580,Jakarta Barat
+581,Depok
+582,Bekasi Kota
+583,Jakarta Selatan
+584,Jakarta Timur
+585,Sukabumi Kabupaten
+586,Bogor Kabupaten
+587,Bogor Kabupaten
+588,Sukabumi Kota
+589,Jakarta Pusat
+590,Jakarta Pusat
+591,Jakarta Pusat
+592,Jakarta Selatan
+593,Tangerang Kota
+594,Sukabumi Kota
+595,Jakarta Timur
+596,Bekasi Kota
+597,Tangerang Kabupaten
+598,Bogor Kota
+599,Jakarta Selatan
+600,Bekasi Kota
+601,Jakarta Pusat
+602,Jakarta Pusat
+603,Tangerang Kabupaten
+604,Bekasi Kabupaten
+605,Jakarta Selatan
+606,Jakarta Selatan
+607,Jakarta Pusat
+608,Jakarta Utara
+609,Jakarta Barat
+610,Sukabumi Kabupaten
+611,Sukabumi Kota
+612,Cianjur
+613,Tangerang Kota
+614,Karawang
+615,Bogor Kabupaten
+616,Jakarta Timur
+617,Bekasi Kota
+618,Tangerang Kabupaten
+619,Depok
+620,Tangerang Kabupaten
+621,Tangerang Kabupaten
+622,Bogor Kabupaten
+623,Bekasi Kota
+624,Jakarta Utara
+625,Tangerang Kota
+626,Jakarta Pusat
+627,Tangerang Kota
+628,Tangerang Kota
+629,Sukabumi Kota
+630,Bogor Kota
+631,Jakarta Pusat
+632,Jakarta Timur
+633,Sukabumi Kota
+634,Depok
+635,Bogor Kabupaten
+636,Bekasi Kabupaten
+637,Cianjur
+638,Bogor Kabupaten
+639,Tangerang Kota
+640,Tangerang Kota
+641,Depok
+642,Cianjur
+643,Bogor Kota
+644,Depok
+645,Cianjur
+646,Bekasi Kota
+647,Bogor Kabupaten
+648,Sukabumi Kota
+649,Bekasi Kota
+650,Bekasi Kota
+651,Bekasi Kota
+652,Jakarta Barat
+653,Jakarta Selatan
+654,Tangerang Kota
+655,Jakarta Pusat
+656,Jakarta Barat
+657,Karawang
+658,Sukabumi Kota
+659,Bekasi Kota
+660,Jakarta Utara
+661,Depok
+662,Tangerang Kota
+663,Depok
+664,Jakarta Selatan
+665,Bekasi Kota
+666,Bogor Kota
+667,Karawang
+668,Cianjur
+669,Sukabumi Kabupaten
+670,Bekasi Kabupaten
+671,Bogor Kota
+672,Jakarta Timur
+673,Bogor Kota
+674,Jakarta Pusat
+675,Jakarta Pusat
+676,Tangerang Kabupaten
+677,Bekasi Kota
+678,Sukabumi Kota
+679,Sukabumi Kota
+680,Depok
+681,Jakarta Selatan
+682,Jakarta Selatan
+683,Sukabumi Kota
+684,Bogor Kota
+685,Karawang
+686,Tangerang Kabupaten
+687,Bekasi Kota
+688,Lebak
+689,Bekasi Kota
+690,Jakarta Pusat
+691,Bekasi Kota
+692,Karawang
+693,Jakarta Pusat
+694,Jakarta Selatan
+695,Jakarta Barat
+696,Jakarta Pusat
+697,Jakarta Barat
+698,Jakarta Timur
+699,Bekasi Kota
+700,Bekasi Kota
+701,Bekasi Kota
+702,Depok
+703,Tangerang Selatan
+704,Bekasi Kota
+705,Jakarta Selatan
+706,Jakarta Barat
+707,Bekasi Kabupaten
+708,Bogor Kota
+709,Tangerang Kota
+710,Jakarta Pusat
+711,Jakarta Timur
+712,Tangerang Kota
+713,Bekasi Kota
+714,Tangerang Kota
+715,Jakarta Pusat
